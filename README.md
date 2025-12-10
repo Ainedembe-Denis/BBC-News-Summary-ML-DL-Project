@@ -119,13 +119,13 @@ Planned tools and libraries (in the notebook):
 - **Visualization:** `matplotlib`, `seaborn`
 - **RL (Q-learning):** custom implementation with `numpy`
 
-Suggested structure:
+Project structure:
 
 ```bash
 BBC-News-Summary-ML-DL-Project/
 ├─ dataset/  # raw dataset from Kaggle
-│  ├─ News Articles/        # raw BBC articles (from Kaggle)
-│  └─ Summaries/            # extractive summaries (if needed)
+│  ├─ News Articles/        # raw BBC articles
+│  └─ Summaries/            # extractive summaries
 ├─ bbc_news_ml_dl_rl.ipynb
 ├─ results/
 │  ├─ screenshots/      
