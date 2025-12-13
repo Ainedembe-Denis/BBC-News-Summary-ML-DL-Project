@@ -8,9 +8,11 @@ This project uses the **BBC News Summary** dataset to build:
 - A topic clustering pipeline  
 - A Q-learning RL agent that chooses between ML, DL, or human escalation
 
-> **Author:** Ainedembe Denis  
+> **Author:** Ainedembe Denis
+- Master’s student in Information Systems (2024/2026)
+- LinkedIn: https://www.linkedin.com/in/ainedembe-denis-2b329615a/
+
 > **Dataset:** [BBC News Summary (Kaggle)](https://www.kaggle.com/datasets/pariza/bbc-news-summary)  
-> **Purpose:** Academic assignment / educational use
 
 ---
 
